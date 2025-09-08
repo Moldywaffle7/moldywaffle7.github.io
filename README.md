@@ -1,2 +1,2 @@
-# Welcome to my site!
-This is going to be a wip for a long time.
+# Welcome to my sites source code!!
+I'm only accepting constructive criticism.
